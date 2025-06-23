@@ -54,5 +54,5 @@ Dilakukan menggunakan:
 ---
 
 ## 🙋‍♂️ Tentang Proyek Ini
-Proyek ini merupakan bagian dari proses belajar menjadi Data Analyst dengan pendekatan **learn by doing**. Dikerjakan secara bertahap menggunakan alat yang umum digunakan di industri.
+Proyek ini merupakan bagian dari proses belajar menjadi Data Analyst. Dikerjakan secara bertahap menggunakan alat yang umum digunakan di industri.
 
