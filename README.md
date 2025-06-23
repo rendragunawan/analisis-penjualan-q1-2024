@@ -33,7 +33,7 @@ Dilakukan menggunakan:
 
 ### 🔹 1. Produk Terlaris
 - **Hoodie Hitam** menjadi produk paling sering dibeli (56 unit)
-- Diikuti oleh **Celana Jeans**, **Topi Baseball** dan **Sandal Jepit*
+- Diikuti oleh **Celana Jeans**, **Topi Baseball** dan **Sandal Jepit**
 
 ### 🔹 2. Penjualan per Bulan
 - Tertinggi: **Februari (Rp 16.665.000)**
